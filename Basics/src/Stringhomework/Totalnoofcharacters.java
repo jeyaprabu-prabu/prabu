@@ -15,7 +15,7 @@ public class Totalnoofcharacters {
 			 count=count+1;
 		}
 		
-		}//System.out.println(count);
+		}
 	
 		System.out.println(s.length()-count);
 		
