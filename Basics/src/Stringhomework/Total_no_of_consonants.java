@@ -4,7 +4,7 @@ public class Total_no_of_consonants {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String s="malala got nobel prize!for peace in swizz";
+		String s="malala got nobel prize! for peace in swizz";
 		char c[]=new char[s.length()];
 		int count=0;
 
@@ -15,7 +15,7 @@ public class Total_no_of_consonants {
 			}
 		for(int i=0;  i< c.length ;i++)
 		    {
-			if(c[i]=='a'||c[i]=='e'||c[i]=='i'||c[i]=='o'||c[i]=='u')
+			if(c[i]=='a'||c[i]=='e'||c[i]=='i'||c[i]=='o'||c[i]=='u' ||c[i]==' ')
 			{				
 				
 			}
