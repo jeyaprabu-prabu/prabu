@@ -1,0 +1,32 @@
+
+public class Christmas_tree_programme {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a = 5;
+		for (int k = 1; k <= 4; k++) 
+		{
+		for (int i = a; i >= 1; i--) 
+		{
+			for (int j = 1; j <= a; j++)
+			{
+				if (i <= j)
+				{
+					System.out.print("* ");
+				} else
+				{
+					System.out.print(" ");
+				}
+			}
+			System.out.println();
+		}
+		
+		}
+		for (int l = 1; l<= 5; l++) 
+		{
+		System.out.println("   . .");
+		}
+		
+	}
+
+}

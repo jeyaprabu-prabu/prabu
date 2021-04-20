@@ -1,11 +1,11 @@
 package Constructor;
 
 public class Employee {
-	int empid;
+	 int empid;
 	double salary;
 	char grade;
 	
-	Employee(int empid,double salary,char grade)//constructor
+	Employee(double salary,int empid,char grade)//constructor
 	{
 		this.empid=empid;
 		this.salary=salary;
