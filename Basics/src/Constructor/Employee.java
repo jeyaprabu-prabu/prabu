@@ -5,7 +5,7 @@ public class Employee {
 	double salary;
 	char grade;
 	
-	Employee(double salary,int empid,char grade)//constructor
+	Employee(int empid,double salary,char grade)//constructor
 	{
 		this.empid=empid;
 		this.salary=salary;

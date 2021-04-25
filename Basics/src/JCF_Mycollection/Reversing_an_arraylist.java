@@ -6,7 +6,7 @@ public class Reversing_an_arraylist {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		ArrayList al=new ArrayList();
+		ArrayList<String> al=new ArrayList<String>();
 		al.add("Prabhu");
 		al.add("Prakash");
 		al.add("Vijay");

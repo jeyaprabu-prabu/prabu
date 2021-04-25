@@ -6,8 +6,7 @@ public class ram_into_RAM_conversion {
 		// TODO Auto-generated method stub
 		String s="ram kumar";
 		char c[]=s.toCharArray();
-		{
-			for(int i=0;i<c.length;i++)
+	     for(int i=0;i<c.length;i++)
 			{
 				if((int)c[i]>=97 && (int) c[i]<=122)
 				{
@@ -20,7 +19,7 @@ public class ram_into_RAM_conversion {
 					System.out.print(' ');
 				}
 			}
-		}
+		
 
 
 	}

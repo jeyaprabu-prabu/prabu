@@ -7,6 +7,7 @@ public class add_and_remove_particular_index_of_arraylist {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//add_and_remove_particular_index_of_arraylist
 		ArrayList names = new ArrayList();
 		names.add("Volvo");
 		names.add("Audi");

@@ -13,7 +13,7 @@ public class ANAHGRAM {
 		if (c1.length == c2.length) {
 
 			for (int i = 0; i < c1.length; i++) {
-				for (int j = i + 1; j < c1.length; j++) {
+				for (int j = i + 1; j < c1.length; j++) {  
 
 					if (c1[i] > c1[j])// ascending order
 					{

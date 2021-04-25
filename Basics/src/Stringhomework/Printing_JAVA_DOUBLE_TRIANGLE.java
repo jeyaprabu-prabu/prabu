@@ -7,7 +7,7 @@ public class Printing_JAVA_DOUBLE_TRIANGLE {
 		String s="java";
 		char c[]=s.toCharArray();
 		
-		for(int i=0; i<c.length -1; i++)
+		for(int i=0; i<c.length-1; i++)
 		{
 			for(int j=0 ; j<c.length ; j++)
 			{
